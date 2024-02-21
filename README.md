@@ -1,3 +1,7 @@
+# Product List Exercise
+- Created a product list component using tailwind for styling
+- Styling uses card layout to render a list of products with relevant detail
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
